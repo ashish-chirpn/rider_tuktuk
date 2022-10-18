@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "333553913098",
+    "project_id": "tuktuk-5c4ce",
+    "storage_bucket": "tuktuk-5c4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333553913098:android:80a5131efb0f2d9ac67ef3",
+        "android_client_info": {
+          "package_name": "taxi.tuktuk.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333553913098-6v8fqj51mvu5cv2qsrehi98v39lj2hg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxi.tuktuk.driver",
+            "certificate_hash": "e4f85e47b5cab989f75f4cd37b01b272fa3efd89"
+          }
+        },
+        {
+          "client_id": "333553913098-96l420oink27q4gtc4hs0vns4p1mkftr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxi.tuktuk.driver",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "333553913098-qvtaagaj8o9gi4dhdi215cl7e1pq5h8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4wBPB_iRqxlZHX46hD61MdLYbHmuKdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333553913098-qvtaagaj8o9gi4dhdi215cl7e1pq5h8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333553913098:android:2a54062ccb2c2161c67ef3",
+        "android_client_info": {
+          "package_name": "taxi.tuktuk.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333553913098-46duoa3crq9ulqgtmdipbbvjjgp59mbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxi.tuktuk.rider",
+            "certificate_hash": "e4f85e47b5cab989f75f4cd37b01b272fa3efd89"
+          }
+        },
+        {
+          "client_id": "333553913098-qqeit1upob00i9elvpsttarhtn5f2991.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxi.tuktuk.rider",
+            "certificate_hash": "914be78d140d0dd3eb66ddcce0c55d2e4dc27d8d"
+          }
+        },
+        {
+          "client_id": "333553913098-qvtaagaj8o9gi4dhdi215cl7e1pq5h8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU4wBPB_iRqxlZHX46hD61MdLYbHmuKdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333553913098-qvtaagaj8o9gi4dhdi215cl7e1pq5h8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
